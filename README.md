@@ -81,6 +81,6 @@ KEY TECHNICAL SKILLS DEMONSTRATED
 - Feature Engineering
 - GPU-accelerated Computing
 
-alysis: NumPy, Pandas, Matplotlib, Seaborn
+analysis: NumPy, Pandas, Matplotlib, Seaborn
 - Tools: Google Colab, Jupyter Notebook, GPU Computing (CUDA)
 - Techniques: Text Classification, Sequential Modeling, Hyperparameter Tuning, Model Evaluation
